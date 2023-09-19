@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm B Farooq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Music web application**
+- 🔭 I’m currently working on **Front-End Development**
 
 - 🌱 I’m currently learning **React js , MongoDB**
 
