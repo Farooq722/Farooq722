@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm B Farooq</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DevOps Technology from India</h3>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Devops&Cloud**
 
-- 🌱 I’m currently learning **React js , MongoDB**
+- 🌱 I’m currently learning **Kubernetes , Observability**
 
 - 👨‍💻 All of my projects are available at [https://github.com/farooq722](https://github.com/farooq722)
 
-- 💬 Ask me about **Html CSS JS MySQL AWS**
+- 💬 Ask me about **DevOps, AWS, Linux, Docker, Kubernetes, Terraform**
 
 - 📫 How to reach me **bfarooq2022@gmail.com**
 
